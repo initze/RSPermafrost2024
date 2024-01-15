@@ -1,0 +1,21 @@
+name: gee
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - earthengine-api
+  - eemont
+  - gdal
+  - geedim
+  - geemap
+  - geopandas
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - python=3.10
+  - rasterio
+  - rioxarray
+  - rtree
+  - tqdm
+  - xarray
